@@ -102,8 +102,9 @@
 ### So với Phương Pháp Truyền Thống
 | Tiêu chí | Truyền thống | Hệ thống AI|
 |----------|--------------|------------------------|
-| Thời gian đo đạc | 30-45 phút | 5-10 phút |
+| Thời gian đo đạc | 30-45 phút | gần như có ngay |
 | Độ chính xác | Phụ thuộc kinh nghiệm | Chuẩn hóa, khách quan |
+
 
 
 
